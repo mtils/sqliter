@@ -15,8 +15,7 @@ setup(
         'Programming Language :: Python',
         'Development Status :: 4 - Beta',
         'Natural Language :: English',
-        'Environment :: Any Environment',
-        'Intended Audience :: Developers'
+        'Intended Audience :: Developers',
         'Operating System :: OS Independent',
         'Topic :: Software Development :: Libraries :: Python Modules',
         'Topic :: Software Development :: Libraries :: Application Frameworks'
